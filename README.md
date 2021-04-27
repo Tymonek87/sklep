@@ -1,6 +1,6 @@
 # sklep
 
-A new Flutter application.
+UI Sklepu 
 
 ## Getting Started
 
